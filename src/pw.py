@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 
-# Repositório de senhas que não é seguro (provavelmente é assim por não ter acesso ao banco de dados encriptado e tal)
+# Repositório de senhas que não é seguro
 
 import pyperclip
 import sys
