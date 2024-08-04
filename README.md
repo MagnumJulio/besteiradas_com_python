@@ -1,4 +1,4 @@
-# besteiradas_com_python
+# python_training
 Projetos simples feitos com a linguagem de programação Python
 
 Aqui postarei alguns exercícios propostos no primeiro volume do livro "Automatize tarefas maçantes com Python" de Al Sweigart.
